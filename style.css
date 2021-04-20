@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap");
+html body {
+  height: 100%;
+}
+#clocks {
+  font-family: "Bungee Shade";
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+}
